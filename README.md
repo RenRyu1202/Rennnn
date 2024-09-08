@@ -13,6 +13,6 @@
 <body>
     <h1>maaaf</h1>
     <p>maafff:</p>
-    <a href="#" onclick="showCustomMessage()">Tampilkan Pesan Kustom</a>
+    <a href="#" onclick="maafinnn()">Tampilkan Pesan Kustom</a>
 </body>
 </html>
